@@ -19,10 +19,10 @@
 ## Redes sociais
 <div>
   <a href = "mailto: michaelmoises6@gmail.com">
-    <img width="30" src="gmail.svg">
+    <img width="35" src="gmail.svg">
   </a>
   <a href = "https://www.linkedin.com/in/micael-m-santos-b03107161/">
-    <img width="25" src="linkedin.svg">
+    <img width="30" src="linkedin.svg">
   </a>
 </div>
 
