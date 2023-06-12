@@ -1,17 +1,29 @@
-## Mical M. Santos.  
-<div align="center">
-  <a href="https://github.com/micaelmoises">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micaelmoises&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelmoises&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="php" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >  
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
-  <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
-  <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-          </div>
+## Micael M. Santos
 
+<div >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelmoises6_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmoises6=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
-            
-          
-          
+## Coding...
+<div style="display: flex; justify-content: space-between;"> <br>
+  <img align="left"height="150" alt="coding-time" src="code.gif">
+  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+</div>
+
+## Redes sociais
+<div>
+  <a href = "mailto: michaelmoises6@gmail.com">
+    <img width="30" src="gmail.svg">
+  </a>
+  <a href = "https://www.linkedin.com/in/micael-m-santos-b03107161/">
+    <img width="25" src="linkedin.svg">
+  </a>
+</div>
+![Snake animation](https://github.com/micaelmoises/blob/output/github-contribution-grid-snake.svg)
