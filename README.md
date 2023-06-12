@@ -22,7 +22,7 @@
     <img width="35" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreelogopng.com%2Fgmail-logo-png&psig=AOvVaw2Bk7adkWJ-gHNoU6KEqV2w&ust=1686678110944000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOi-kt-jvv8CFQAAAAAdAAAAABAR">
   </a>
   <a href = "https://www.linkedin.com/in/micael-m-santos-b03107161/">
-    <img width="30" src="linkedin.svg">
+    <img width="30" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png">
   </a>
 </div>
 
