@@ -19,7 +19,7 @@
 ## Redes sociais
 <div>
   <a href = "mailto: michaelmoises6@gmail.com">
-    <img width="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png">
+    <img width="20" src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png">
   </a>
   <a href = "https://www.linkedin.com/in/micael-m-santos-b03107161/">
     <img width="30" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png">
