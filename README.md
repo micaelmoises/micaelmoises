@@ -22,7 +22,7 @@
     <img width="33" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png">
   </a> 
   <a href = "https://www.linkedin.com/in/micael-m-santos-b03107161/">
-    <img width="30"   src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png">
+    <img width="32"   src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png">
   </a>
 </div>
 
